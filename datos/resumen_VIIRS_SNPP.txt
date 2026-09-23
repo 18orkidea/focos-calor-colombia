@@ -1,0 +1,26 @@
+
+Focos de calor en Colombia · sensor VIIRS_SNPP · fuente NASA FIRMS · corte 2026-09-23
+Periodo                                Focos  Sin conf. baja
+2025 completo                         81,322          77,184
+2025 (1 ene → 23 Sep)                 66,716
+2026 (1 ene → 23 Sep)                 64,564          61,120
+
+2026 frente al mismo tramo de 2025: -3.2 %
+2026 hasta hoy frente a 2025 completo: 79.4 % del total del año pasado
+
+Por mes:
+Mes         2025      2026
+1         14,522     6,658
+2         17,208    16,891
+3         17,959    21,842
+4          3,888     3,772
+5          1,660         0
+6          1,180     2,002
+7          2,699     3,163
+8          4,189     6,163
+9          4,409     4,073
+10         2,480         —
+11         2,637         —
+12         8,491         —
+
+Detalle guardado en focos_colombia_VIIRS_SNPP.csv (145,886 filas)
