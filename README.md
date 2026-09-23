@@ -1,6 +1,6 @@
-# Focos de calor en Colombia · 2025 frente a 2026
+# Focos de fuego en Colombia · 2025 frente a 2026
 
-Mapa interactivo de focos de calor (detecciones térmicas satelitales) en Colombia,
+Mapa interactivo de focos de fuego (detecciones térmicas satelitales) en Colombia,
 comparando todo 2025 con 2026 hasta el 23 de septiembre, por departamento y en
 rejilla de 0,1°. Página estática sin dependencias de servidor: `index.html`
 incrusta los datos agregados; solo carga Leaflet (cdnjs) y las fuentes de Google.
